@@ -1,6 +1,9 @@
 # Fluids Measurement of a Mechanical Project
 In this project four DS18B20 (digital temperature sensors), two Yf-s201 (flow sensors), and two HK1100C (pressure sensors) are used. This project reads and calculates measurements of a fluid in a metallic mechanical tube in required units.
 
+## Flow Chart
+![Flow Sensor Diagram](https://github.com/syedmohiuddinzia/fluidmeasurements01/raw/main/flow.png =100x)
+
 ## Requirements
 1- Ardjuino Mega 2560 </br>
 2- Programming Cable for Arduino Mega 2560 </br>
